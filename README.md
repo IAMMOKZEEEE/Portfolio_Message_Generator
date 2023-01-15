@@ -6,6 +6,6 @@ Message Generator is a multi-topic text generator based on user input. The user 
 ## Features
 * Allows user to define desired topic of ouput message.
 
-## How to User
+## How to Use
 
 ## License
